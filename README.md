@@ -1,2 +1,2 @@
 # ddpcl
-The official implementation of "DDPCL: dual diversity and pseudo-label correction learning for semi-supervised medical image segmentation"
+The official implementation of "Dual diversity and pseudo-label correction learning for semi-supervised medical image segmentation"
