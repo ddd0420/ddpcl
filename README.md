@@ -16,4 +16,4 @@ python test_ACDC.py  #for ACDC testing
 
 
 ## Acknowledgements
-Our code is largely based on [BCP](https://github.com/DeepMed-Lab-ECNU/BCP) and SSL4MIS(https://github.com/HiLab-git/SSL4MIS)). Thanks for these authors for their valuable work, hope our work can also contribute to related research.
+Our code is largely based on [BCP](https://github.com/DeepMed-Lab-ECNU/BCP) and [SSL4MIS](https://github.com/HiLab-git/SSL4MIS). Thanks for these authors for their valuable work, hope our work can also contribute to related research.
